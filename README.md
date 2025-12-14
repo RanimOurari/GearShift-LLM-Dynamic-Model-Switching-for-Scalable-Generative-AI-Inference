@@ -3,9 +3,13 @@ This project studies GearShift LLM, a dynamic serving strategy that improves sca
 
 ## Objectives:
 -Measure and model inference latency for different model sizes.
+
 -Quantify the quality trade-off between large and small models.
+
 -Simulate an online inference service with dynamic model switching.
+
 -Optimize switching policies to minimize latency under quality constraints.
+
 -Validate performance using an analytic M/G/1 queueing model.
 
 ## Methodology
